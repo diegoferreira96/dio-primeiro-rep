@@ -1,2 +1,4 @@
 # dio-primeiro-rep
-Primeiro Repostorio
+## Aula inicial de GIT e GitHub
+Primeiro Repositorio
+
